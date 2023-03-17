@@ -5,4 +5,4 @@ Tercera línea que queremos que se quede.
 
 Esta línea la hemos creado en el Branch.
 
-Cambio en master para generar el conflicto.
+Esta línea se ha escrito para probocar el conflicto con el master
